@@ -1,0 +1,12 @@
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\bin\Debug\giaodien.exe
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\bin\Debug\giaodien.pdb
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.fLogin.resources
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.Properties.Resources.resources
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.csproj.GenerateResource.Cache
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.exe
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.pdb
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.fTableManeger.resources
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.fAccountProfile.resources
+C:\Users\MyPC\Desktop\CTDL\giaodien\giaodien\obj\Debug\giaodien.fAdmin.resources
