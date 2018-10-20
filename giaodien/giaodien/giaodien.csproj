@@ -89,6 +89,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -99,6 +100,28 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe-đá-xay-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-tra-nong-chua-viem-hong-cdqt-1448456081885-0-0-313-426-crop-1448456133862.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cam.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recipe-cover-r24169.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sinh tố.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2018417161322-yaour-da.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\2018-08-24.png" />
+    <Content Include="Resources\yaourt-da-trai-cay.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

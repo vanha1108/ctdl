@@ -37,5 +37,10 @@ namespace giaodien
 			fAdmin f = new fAdmin();
 			f.ShowDialog();
 		}
+
+		private void txbPriceHotTea_TextChanged(object sender, EventArgs e)
+		{
+
+		}
 	}
 }

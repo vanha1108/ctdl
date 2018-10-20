@@ -50,5 +50,25 @@ namespace giaodien
 		{
 
 		}
+
+		private void panel17_Paint(object sender, PaintEventArgs e)
+		{
+
+		}
+
+		private void tpAccount_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void panel23_Paint(object sender, PaintEventArgs e)
+		{
+
+		}
+
+		private void label12_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
