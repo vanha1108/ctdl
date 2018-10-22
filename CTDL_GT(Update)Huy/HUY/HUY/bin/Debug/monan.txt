@@ -1,0 +1,22 @@
+﻿1;Cafe Ðá;20000
+2;Cafe Sữa;22000
+3;Cafe Ðá Say;22000
+4;Bạc Sỉu;22000
+5;Trà Sữa;28000
+6;Trà Ðào;28000
+7;Trà Vãi;28000
+8;Trà Dâu;28000
+9;Trà chanh Việt Qu?t;28000
+10;Lipton nóng;20000
+11;Lipton đá;20000
+12;Lipton Gừng;20000
+13;Lipton Mật Ong;20000
+14;Soda Nho;28000
+15;Soda Ðào;28000
+16;Soda Việt Qu?t;28000
+17;Soda Dâu;28000
+18;Sữa Chua Ðá;18000
+19;Sữa Chua dá xay Ca Cao;25000
+20;Sinh Tố Bo;28000
+21;Sinh Tố Dâu;28000
+22;Sinh Tố Mãng C?u;28000

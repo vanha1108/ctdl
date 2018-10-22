@@ -1,0 +1,11 @@
+C:\Users\hoangdung\Desktop\HUY\HUY\bin\Debug\HUY.exe.config
+C:\Users\hoangdung\Desktop\HUY\HUY\bin\Debug\HUY.exe
+C:\Users\hoangdung\Desktop\HUY\HUY\bin\Debug\HUY.pdb
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.csprojResolveAssemblyReference.cache
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.Form1.resources
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.frmDangnhap.resources
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.Properties.Resources.resources
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.csproj.GenerateResource.cache
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.csproj.CoreCompileInputs.cache
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.exe
+C:\Users\hoangdung\Desktop\HUY\HUY\obj\Debug\HUY.pdb

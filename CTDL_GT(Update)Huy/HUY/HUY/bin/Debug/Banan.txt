@@ -1,0 +1,6 @@
+﻿1;Bàn 1;Trống
+2;Bàn 2;Trống
+3;Bàn 3;Trống
+4;Bàn 4;Trống
+5;Bàn 5;Trống
+6;Bàn 6;Trống
